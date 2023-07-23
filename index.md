@@ -8,5 +8,5 @@ Senior Software Developer
 
 ### Projects
 
-[request-tracker-spring-boot-start](https://github.com/rogeriofbrito/request-tracker-spring-boot-starter)  
+[request-tracker-spring-boot-starter](https://github.com/rogeriofbrito/request-tracker-spring-boot-starter)  
 _A Spring Boot Starter dependency that transparently creates a Servlet Filter in a Spring Boot Application that collect some informations from request and response Servlet objects and performs a custom action asynchronously (in a new thread)_
