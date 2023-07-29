@@ -16,7 +16,7 @@ Senior Software Developer
 [request-tracker-spring-boot-starter](https://github.com/rogeriofbrito/request-tracker-spring-boot-starter)  
 _A Spring Boot Starter dependency that transparently creates a Servlet Filter in a Spring Boot Application that collect some information from request and response Servlet objects and performs a custom action asynchronously (in a new thread)_
 
-[spring-boot-jms-sqs](https://github.com/rogeriofbrito/spring-boot-jms-sqs)
+[spring-boot-jms-sqs](https://github.com/rogeriofbrito/spring-boot-jms-sqs)  
 _An implementation of a SQS Listerner with JMS using Spring Boot. This implementation overides the defaults Jms Listener Container Factory and Message Listener Container implementation to prevent a bug of infinite loop in session rolback ([described here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues/75)) when Session mode is CLIENT_ACKNOWLEDGE_
 
 ### :stars: Published Maven Dependencies in mvncentral.com
