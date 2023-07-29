@@ -2,7 +2,7 @@
 
 ### :wave: About
 
-My name is Rogério Brito, I'm a Software Developer with six more years of experience. My main background is with Java language using Spring Boot framework, but I've been worked with others technologies throughout my career such NodeJS and Python. I've already worked in many projects in distributed microservices architecture running on AWS. To know more about you can access my Linkedin (bellow) as well as my GitHub and Medium profiles.
+Hello! Welcome to my professional portfolio! My name is Rogério, I'm a Software Developer with six more years of experience. My main background is with Java language using Spring Boot framework, but I've been worked with others technologies throughout my career such NodeJS and Python. I've already worked in many projects in distributed microservices architecture running on AWS. To know more about you can access my Linkedin (bellow) as well as my GitHub and Medium profiles.
 
 ### :link: Links
 
