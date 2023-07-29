@@ -6,7 +6,7 @@ Hello! Welcome to my professional portfolio! My name is Rogério, I'm a Software
 
 ### :link: Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriofbrito/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriofbrito/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rogeriofbrito/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriofbrito/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriofbrito/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rogeriofbrito/) [![Maven](https://img.shields.io/badge/Maven-D9422B?style=for-the-badge&logo=openjdk&logoColor=white)](https://mvnrepository.com/artifact/dev.rogeriofbrito/) 
 
 ### :pencil: Articles
 
@@ -20,6 +20,12 @@ _A Spring Boot Starter dependency that transparently creates a Servlet Filter in
 
 [spring-boot-jms-sqs](https://github.com/rogeriofbrito/spring-boot-jms-sqs)  
 _An implementation of a SQS Listerner with JMS using Spring Boot. This implementation overides the defaults Jms Listener Container Factory and Message Listener Container implementation to prevent a bug of infinite loop in session rolback ([described here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues/75)) when Session mode is CLIENT_ACKNOWLEDGE_
+
+
+### Certifications
+
+[Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/e003bf6a-9498-4c2b-8f13-e3e770ecf9d3/public_url)  
+_Issued at August 23, 2013_
 
 ### :stars: Published Maven Dependencies in [mvnrepository.com](https://mvnrepository.com/)
 
