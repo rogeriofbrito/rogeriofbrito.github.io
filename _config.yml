@@ -1,3 +1,5 @@
 name: Rogério Ferreira Brito
 markdown: CommonMarkGhPages
 google_analytics: G-CFHRBGWGGB
+plugins:
+  - jemoji
