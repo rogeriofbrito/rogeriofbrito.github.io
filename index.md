@@ -19,6 +19,6 @@ _A Spring Boot Starter dependency that transparently creates a Servlet Filter in
 [spring-boot-jms-sqs](https://github.com/rogeriofbrito/spring-boot-jms-sqs)  
 _An implementation of a SQS Listerner with JMS using Spring Boot. This implementation overides the defaults Jms Listener Container Factory and Message Listener Container implementation to prevent a bug of infinite loop in session rolback ([described here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues/75)) when Session mode is CLIENT_ACKNOWLEDGE_
 
-### :stars: Published Maven Dependencies in mvncentral.com
+### :stars: Published Maven Dependencies in [mvnrepository.com](https://mvnrepository.com/)
 
 * [Request Tracker Spring Boot Starter](https://mvnrepository.com/artifact/dev.rogeriofbrito/request-tracker-spring-boot-starter)
