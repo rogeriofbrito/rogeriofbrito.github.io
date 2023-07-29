@@ -22,7 +22,7 @@ _A Spring Boot Starter dependency that transparently creates a Servlet Filter in
 _An implementation of a SQS Listerner with JMS using Spring Boot. This implementation overides the defaults Jms Listener Container Factory and Message Listener Container implementation to prevent a bug of infinite loop in session rolback ([described here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues/75)) when Session mode is CLIENT_ACKNOWLEDGE_
 
 
-### Certifications
+### :round_pushpin: Certifications
 
 [Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/e003bf6a-9498-4c2b-8f13-e3e770ecf9d3/public_url)  
 _Issued at August 23, 2013_
