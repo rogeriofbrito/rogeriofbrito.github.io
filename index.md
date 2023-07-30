@@ -10,6 +10,7 @@ Hello! Welcome to my professional portfolio! My name is Rogério, I'm a Software
 
 ### :pencil: Articles
 
+* [AWS ECS - An Overview](https://medium.com/@rogeriofbrito/aws-ecs-an-overview-6ff53e67e21c)
 * [How to add Spring Security Outh2 in your project without default auto configuration](https://medium.com/@rogeriofbrito/how-to-add-spring-security-outh2-in-your-project-without-default-auto-configuration-9ef4b5d3fbb9)
 * [GIT: reset remote repository to a certain commit](https://medium.com/@rogeriofbrito/git-reset-remote-repository-to-a-certain-commit-5cf4ced8882c)
 
