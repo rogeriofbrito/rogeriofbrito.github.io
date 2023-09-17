@@ -25,7 +25,10 @@ _An implementation of a SQS Listerner with JMS using Spring Boot. This implement
 
 ### :round_pushpin: Certifications
 
-[Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/e003bf6a-9498-4c2b-8f13-e3e770ecf9d3/public_url)  
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/d8e2d04c-5799-4ab3-8571-0f09c0cdf44e/public_url)
+_Issued at September 16, 2023_ 
+
+[Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/e003bf6a-9498-4c2b-8f13-e3e770ecf9d3/public_url)
 _Issued at August 23, 2013_
 
 ### :stars: Published Maven Dependencies in [mvnrepository.com](https://mvnrepository.com/)
