@@ -2,7 +2,7 @@
 
 ### :wave: About
 
-Hello! Welcome to my professional portfolio! My name is Rogério, I'm a Software Developer with six more years of experience. My main background is with Java language using Spring Boot framework, but I've been worked with others technologies throughout my career such NodeJS and Python. I've already worked in many projects in distributed microservices architecture running on AWS. To know more about me, you can access my Linkedin (bellow) as well as my GitHub and Medium profiles.
+Hello! Welcome to my professional portfolio! My name is Rogério, I'm a Software Developer with six more years of experience. My main background is with Java language using Spring Boot framework and Go, but I've been worked with others technologies throughout my career such NodeJS and Python. I've already worked in many projects in distributed microservices architecture running on AWS. To know more about me, you can access my Linkedin (bellow) as well as my GitHub and Medium profiles.
 
 ### :link: Links
 
@@ -16,11 +16,14 @@ Hello! Welcome to my professional portfolio! My name is Rogério, I'm a Software
 
 ### :telescope: Projects
 
+[go-cleanarch-api](https://github.com/rogeriofbrito/go-cleanarch-api)
+_A Rest API implemented with Go using the Clean Architecture software design philosophy. The API works with Fiber or Gin web frameworks. As database, has been implemented two adapters to MySQL and Postgres._
+
 [request-tracker-spring-boot-starter](https://github.com/rogeriofbrito/request-tracker-spring-boot-starter)  
-_A Spring Boot Starter dependency that transparently creates a Servlet Filter in a Spring Boot Application that collect some information from request and response Servlet objects and performs a custom action asynchronously (in a new thread)_
+_A Spring Boot Starter dependency that transparently creates a Servlet Filter in a Spring Boot Application that collect some information from request and response Servlet objects and performs a custom action asynchronously (in a new thread)._
 
 [spring-boot-jms-sqs](https://github.com/rogeriofbrito/spring-boot-jms-sqs)  
-_An implementation of a SQS Listerner with JMS using Spring Boot. This implementation overides the defaults Jms Listener Container Factory and Message Listener Container implementation to prevent a bug of infinite loop in session rolback ([described here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues/75)) when Session mode is CLIENT_ACKNOWLEDGE_
+_An implementation of a SQS Listerner with JMS using Spring Boot. This implementation overides the defaults Jms Listener Container Factory and Message Listener Container implementation to prevent a bug of infinite loop in session rolback ([described here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues/75)) when Session mode is CLIENT_ACKNOWLEDGE._
 
 
 ### :round_pushpin: Certifications
