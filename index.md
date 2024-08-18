@@ -20,7 +20,7 @@ Hello! Welcome to my professional portfolio! My name is Rogério, I'm a Software
 _An Proof of Concept of an application written in Go that injects/removes faults in a set of pods in Kubernetes._
 
 [rinha-2024-crebito-go ](https://github.com/rogeriofbrito/rinha-2024-crebito-go)
-_An application written in Go to solve the challange of [Rinha de Backend](https://github.com/zanfranceschi/rinha-de-backend-2024-q1), an event when the developers community is challanged to solve a given problem in the more performative way, checked by a Gattling loadtest._
+_An application written in Go to solve the challange of [Rinha de Backend](https://github.com/zanfranceschi/rinha-de-backend-2024-q1), an event when the developers community is challanged to solve a given problem in the more performative way, checked by a Gatling loadtest._
 
 [go-cleanarch-api](https://github.com/rogeriofbrito/go-cleanarch-api)
 _A Rest API implemented with Go using the Clean Architecture software design philosophy. The API works with Fiber or Gin web frameworks. As database, has been implemented two adapters to MySQL and Postgres._
