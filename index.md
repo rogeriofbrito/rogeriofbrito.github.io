@@ -25,6 +25,11 @@ _A Spring Boot Starter dependency that transparently creates a Servlet Filter in
 [spring-boot-jms-sqs](https://github.com/rogeriofbrito/spring-boot-jms-sqs)  
 _An implementation of a SQS Listerner with JMS using Spring Boot. This implementation overides the defaults Jms Listener Container Factory and Message Listener Container implementation to prevent a bug of infinite loop in session rolback ([described here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues/75)) when Session mode is CLIENT_ACKNOWLEDGE._
 
+[rinha-2024-crebito-go ](https://github.com/rogeriofbrito/rinha-2024-crebito-go)
+_An application written in Go to solve the challange of [Rinha de Backend](https://github.com/zanfranceschi/rinha-de-backend-2024-q1), an event when the developers community is challanged to solve a given problem in the more performative way, checked by a Gattling loadtest._
+
+[sinth-chaos-poc](https://github.com/rogeriofbrito/sinth-chaos-poc)
+_An Proof of Concept of an application written in Go that injects/removes faults in a set of pods in Kubernetes._
 
 ### :round_pushpin: Certifications
 
